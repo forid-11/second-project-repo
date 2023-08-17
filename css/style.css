@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    color: #23201A;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h2 {
+    color: #23201A;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 35px
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+    padding-top: 20px
+}
+
+.color-orange {
+    color: #FC8143;
+}
+
+p {
+    color: gray;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+    margin-bottom: 120px;
+    gap: 30px;
+}
+
+section img {
+    width: 100%;
+}
+
+.link-btn {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 8px 15px;
+}
+
+.top-header {
+    background-image: url('../images/shapes/Frame\ 58.jpg');
+    background-repeat: no-repeat;
+}
+
+.about-title {
+    background-image: url('../images/shapes/Frame\ 57.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.recipi {
+    text-align: center;
+    padding: 0 400px;
+}
+
+.box-design {
+    width: 48%;
+    margin-left: 2%;
+    box-shadow: 5px 10px 50px gray;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.follower {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    box-shadow: 10px 15px 50px gray;
+    border-radius: 15px;
+    margin-left: 2%;
+    margin-bottom: 120px;
+    padding: 50px;
+}
+
+.color-gray {
+    color: gray;
+}
+
+.footer-title {
+    text-align: center;
+    background-color: #23201A;
+    padding: 100px 0;
+}
